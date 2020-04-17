@@ -2,6 +2,7 @@ import java.sql.*;
 
 /**
  * Clasa Database e de tip singleton si din ea ma conectez la baza de date creata in mysql
+ * 
  */
 public class Database {
 
